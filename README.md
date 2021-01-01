@@ -1,5 +1,6 @@
 # ProPresenter 繁體中文和合本聖經修復工程 
 本計畫根據 macOS ProPresenter6 (PP6) 為基礎進行檔案修正，未來若有提出其他系統版修復需求，可在進行相關研究
+
 目前主要修復 **繁體中文和合本(Free)** 聖經(cuvt-zh)版本，請悉知。
 
 ## 更新歷程
@@ -9,6 +10,7 @@
 
 ### macOS ProPresenter6
 /Library/Application Support/RenewedVision/RVBibles
+
 替換以上路經中的 cuvt-zh.rvbible 檔案
 
 
