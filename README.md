@@ -8,8 +8,7 @@
 
 ## 檔案套用路徑
 
-### macOS ProPresenter6
-/Library/Application Support/RenewedVision/RVBibles
+**For macOS ProPresenter6 ：** /Library/Application Support/RenewedVision/RVBibles
 
 替換以上路經中的 cuvt-zh.rvbible 檔案
 
