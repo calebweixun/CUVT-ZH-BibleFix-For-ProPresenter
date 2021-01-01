@@ -13,6 +13,9 @@
 替換以上路經中的 cuvt-zh.rvbible 檔案
 
 
+
+
+
 若有修正需求與相關建議 請聯繫 calebweixun@gmail.com
 
 關於GitHub的相關功能我仍然還在摸索中，請見諒，謝謝！
