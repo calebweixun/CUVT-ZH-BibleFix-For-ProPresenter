@@ -1,4 +1,4 @@
-# ProPresenter 繁體中文和合本聖經修復工程 
+# ProPresenter 繁體中文和合本聖經修復
 本計畫根據 macOS ProPresenter6 (PP6) 為基礎進行檔案修正，未來若有提出其他系統版修復需求，可在進行相關研究
 
 目前主要修復 **繁體中文和合本(Free)** 聖經(cuvt-zh)版本，請悉知。
@@ -17,4 +17,4 @@
 
 ------------------------------------------
 
-若有修正需求與相關建議 請至 [Issues](https://github.com/calebweixun/ProPresenter6-ChineseBible-Fixup/issues) 中提出修正建議！謝謝！
+若有修正需求與相關建議 請至 [Issues](https://github.com/calebweixun/ProPresenter6-ChineseBible-Fixup/issues) 中提出！謝謝！
