@@ -17,4 +17,4 @@
 
 ------------------------------------------
 
-若有修正需求與相關建議 請至 Issues 中提出修正建議！謝謝！
+若有修正需求與相關建議 請至 [Issues](https://github.com/calebweixun/ProPresenter6-ChineseBible-Fixup/issues) 中提出修正建議！謝謝！
